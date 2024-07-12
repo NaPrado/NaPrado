@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about programming in general 
 - 🌱 I’m currently learning POO with java and ruby, you should check my repo
 - 📫 My email is naprado@itba.edu.ar
-- ⚡ Fun fact: I'm electromechanical technician but programming is also my passion
+- ⚡ Fun fact: I like to play videogames
 - 📚 I'm studying software engineer :)
 
 <!---
