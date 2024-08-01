@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaPrado ( Nahuel Prado )
 - 👀 I’m interested in learning more about programming in general 
-- 🌱 I’m currently learning POO with java and ruby, you should check my repo
+- 🌱 I’m currently learning computer arquitecture and also data structure and algorithms
 - 📫 My email is naprado@itba.edu.ar
 - ⚡ Fun fact: I like to play videogames
 - 📚 I'm studying software engineer :)
