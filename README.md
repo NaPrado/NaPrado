@@ -7,5 +7,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaPrado&hide"XML")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaPrado)](https://github.com/anuraghazra/github-readme-stats)
 
