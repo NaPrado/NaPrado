@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaPrado ( Nahuel Prado )
 - 👀 I’m interested in learning more about low level programing
-- 🌱 I’m currently learning computer arquitecture and also data structure and algorithms
+- 🌱 I’m currently learning operating sistems, human computer interaction(H.C.I.) and software engineer I
 - 📫 My email is naprado@itba.edu.ar
 - ⚡ Fun fact: I like to play videogames
 - 📚 I'm studying software engineer :)
