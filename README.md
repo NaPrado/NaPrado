@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Nahuel Prado
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;3D+Graphics+Enthusiast;Gaming+Lover;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Gaming+Lover;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,27 +21,9 @@ const nahuel = {
 
 ## 🎓 Actualmente estudiando
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📚 Materias Actuales
-- **Operating Systems** - Explorando IPC, scheduling y más
-- **Human Computer Interaction (HCI)** - Diseñando experiencias usuario
-- **Software Engineering I** - Fundamentos del desarrollo profesional
-
-</td>
-<td width="50%">
-
-### 🎯 Próximos Objetivos
-- Aprender **OpenGL/Vulkan**
-- Contribuir a proyectos open source
-- Participar en game jams
-- Participar en una hackaton
-
-</td>
-</tr>
-</table>
+- **Autómatas, Teoría de Lenguajes y Compiladores** - Emocionado por hacer un compilador 
+- **Protocolos de Comunicación** - Descubriendo el detras de como funcionan las redes
 
 ## 💻 Tech Stack
 
@@ -60,12 +42,6 @@ const nahuel = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### Aprendiendo
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -88,19 +64,6 @@ const nahuel = {
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaPrado&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-## 🎮 Cuando no estoy programando...
-
-<div align="center">
-
-| 💪 Sports | 📚 Learning |
-|-----------|-------------|
-| Entrenando en el gym | Leyendo sobre algun framework |
-| Andando en bicicleta | Investigando novedades tecnologicas |
-
-</div>
 
 ## 🤝 ¡Conectemos!
 
